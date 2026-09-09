@@ -1,0 +1,6 @@
+{
+  "name": "AIONS Architecture Explorer & Tensor Studio",
+  "description": "Interactive architecture research, repository familiarisation, WPC tensor compression profiling, MCP tool loop sandbox, and system design improvement suite for jpytka666-jpg repos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
